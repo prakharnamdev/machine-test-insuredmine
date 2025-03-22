@@ -1,0 +1,8 @@
+# Node modules (dependencies)
+node_modules/
+
+# Environment variables (sensitive data)
+.env
+
+# Database dumps and temporary files
+uploads/
